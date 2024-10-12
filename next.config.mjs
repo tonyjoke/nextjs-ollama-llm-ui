@@ -1,7 +1,7 @@
-// next.config.js
+// next.config.mjs
 
 // LlamaIndex Plugin importieren
-const withLlamaIndex = require("llamaindex/next");
+import withLlamaIndex from 'llamaindex/next';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -29,4 +29,4 @@ const nextConfig = {
 };
 
 // Die Konfiguration mit dem LlamaIndex Plugin erweitern
-module.exports = withLlamaIndex(nextConfig);
+export default withLlamaIndex(nextConfig);
