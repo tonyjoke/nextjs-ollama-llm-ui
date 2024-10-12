@@ -1,0 +1,194 @@
+_id,Nummer,Name,Breitengrad,Längengrad,Standorttyp,Koordinaten,Kunden-ID,Objektmanager-ID,Vorname,Nachname,Status,Rechnungsempfänger-IDs,Tags,Straße,PLZ,Stadt,Land,Gehalt,Fahrtzeitenerfassung erlaubt,lastModified,Schlüssel,Beschreibung,Sicherheitscode,Enddatum,Startdatum,lead_id
+65a631c7b5977bf14b0fe4cc,95,Deutsches Studierendenwerk e.V.,"52,5227265","13,3993418",Point,"[13.3993418,52.522726500000005]",65a631c6ea00750e4200d279,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Monbijouplatz 11,10178,Berlin,Deutschland,0,false,20.02.2024 16:38:12,,,,,,
+654f598ae2ecaa2a9f0843da,76,Agency for the Future pauschal,"52,4906451","13,4919655",Point,"[13.4919655,52.4906451]",654f5989f88b11a6d509a0d3,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Köpenicker Chaussee 3a,10317,Berlin,Deutschland,0,false,02.05.2024 13:37:02,,,,,,
+64bd43824031010d280f4ef3,43,AlogO Pauschal,"52,4886565","13,3427828",Point,"[13.3427828,52.4886565]",64bd43821f4f67e3820f8782,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Grunewaldstraße 61/62,10825,Berlin,Deutschland,0,false,02.05.2024 13:51:24,,,,,,
+6554b2f7d63b0609c9020b22,77,Ankerpunkt Pauschal,"52,4806681","13,4359879",Point,"[13.435987899999999,52.480668099999995]",6554b2f66cb6612191069d52,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Karl-Marx-Straße 89,12043,Berlin,Deutschland,0,false,01.07.2024 11:53:23,,,,,,
+64173b013febd2235e2a7794,16,Auxolar Pauschal,"52,532553","13,428356",Point,"[13.428356,52.532553]",64173b013febd223c712e962,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],"Greifswalder Str. 208, 10405 Berlin",10405,Berlin,Deutschland,0,,20.02.2024 16:35:33,1 Schlüssel,Nur Boden und Bad,,,,
+64eb687c6dc65a561e0da5a9,51,bad e.V. pauschal,"52,5141237","13,3905386",Point,"[13.3905386,52.5141237]",64eb687c0975854f380e8da2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Jägerstraße 60,10117,Berlin,Deutschland,0,false,20.02.2024 16:35:37,,,,,,
+658949e85973375e9b0335c3,91,Bahntek Pauschal,"52,5894226","13,3587787",Point,"[13.3587787,52.589422600000006]",658949e7172680197400af2f,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Lessingstraße 81 ,13158,Berlin,Deutschland,0,false,03.05.2024 09:27:52,,,,,,
+63c456c53febd263736d4b12,9,Bahntek Alt,"52,5895423","13,3596388",Point,"[13.359638799999999,52.5895423]",63c456c43febd263707820e4,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Lessingstraße 79,13158,Berlin,Deutschland,0,,03.05.2024 09:27:44,,"Während der Öffnungszeiten Morgens
+Müllcode 8190
+Ohne Sanitäranlagen ",8190,1714687200000,,
+65797fa109d4b86be607f431,88,bavaria PS GmbH,"52,5100624","13,2874468",Point,"[13.2874468,52.510062399999995]",65797fa14b7cc5151e0b5597,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Kaiserdamm 100,14057,Berlin,Deutschland,0,false,19.04.2024 14:08:17,,,,,,
+643049923febd25ec82a0758,23,BBM Apartment 2.OG Haus6,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:36:10,,,,,,
+643049ba3febd25c96053088,24,BBM Apartment 4.OG Haus6,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:36:22,,,,,,
+644802d064a9c6280d324a96,29,BBM Atelier 4.OG Haus6,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:36:26,,,,,,
+64172df064a9c67b1c313e62,15,BBM Clair Unterhaltsreinigung,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:36:31,,,,,,
+645169df3febd22f072b5352,30,BBM Lager,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:36:39,,,,,,
+64219d603febd22b6800b5d2,21,BBM Probehalle 2,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:36:44,,,,,,
+64219d2d3febd22b602b6d93,20,BBM Probehalle1,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73,13158,Berlin,Deutschland,0,,20.02.2024 16:37:11,,Halle 1,,,,
+643ed26164a9c66f897f4889,26,BBM Studio 2OG Haus6,"52,5870631","13,3538013",Point,"[13.353801299999999,52.587063099999995]",64172df064a9c6774405f1e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 73 ,13158,Berlin,Deutschland,0,,20.02.2024 16:37:16,,,,,,
+65018528aa20c7f742061e12,56,BBSG Pauschal,"52,5129652","13,397355",Point,"[13.397355,52.5129652]",650184e49d842204fd0f4144,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hausvogteiplatz 13,10117,Berlin,Deutschland,0,false,20.02.2024 16:37:26,,,,,,
+657869d3288d86aaf308f482,87,Black Box Music Halle 23c pauschal,"52,5907161","13,3580295",Point,"[13.358029499999999,52.590716099999995]",65671a9fdedbd8d960098693,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Lessingstr. 84,13158,Berlin,Deutschland,0,false,02.07.2024 10:07:40,,,,,,
+659654c3f3851020ae0f2405,93,Chainflip Labs,"52,4984854","13,4462043",Point,"[13.4462043,52.49848540000001]",659654c36ab0bf6a61014427,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Schlesische Straße 20,10997,Berlin,Deutschland,0,false,24.06.2024 10:59:43,,,,1719180000000,,
+6393b7d164a9c6523764bda4,8,Cine-Mobil GmbH Pauschal + Sonderreinigung,"52,4237013","13,5137279",Point,"[13.5137279,52.4237013]",6393b7d164a9c6523764bda3,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Köpenicker Straße 50,12355,Berlin,Deutschland,0,,06.08.2024 11:39:21,,,,1722895200000,,
+648b60a79f6a3e73b704a11c,37,CleanYourCityGreen,"52,5436573","13,4128799",Point,"[13.4128799,52.5436573]",648b60a7bc0b1e2845046f0b,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Schönhauser Allee 56,10437,Berlin,Deutschland,0,false,20.02.2024 16:37:57,,,,,,
+647b964fa40f7c36bd097cf6,33,Clesteege Pauschal,"52,5072583","13,3554182",Point,"[13.3554182,52.5072583]",647b964fa00acb493a036402,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Von-der-Heydt-Straße 1,10875,Berin,Deutschland,0,,09.07.2024 08:19:09,1 Schlüssel,Vorher Shary Anrufen um die Alarmanlage zu entschärfen 01602244411,,,,
+64173e9d64a9c67e9e012b33,17,Closed Pauschal,"52,5055961","13,3383079",Point,"[13.3383079,52.5055961]",64173e9d3febd223c712e963,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Budapester Straße 38-50,10787,Berlin,Deutschland,0,,12.08.2024 12:23:08,Ein Chip ein Schlüssel,Schlüssel wurde von Moppi verloren,,,,
+64ea31e06d7bda25f80c2c37,49,Esanum Pappel 10,"52,5424621","13,414205",Point,"[13.414204999999999,52.542462099999995]",64ea3180505d5c087b02c20a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Pappelallee 10,10437,berlin,Deutschland,0,false,20.02.2024 16:38:18,,"Pappelallee 10
+Pappelallee 9
+Schönhauser Allee 45 A",,,,
+65b8f8c8f19b608d020a40a0,96,Esanum Pappel 9,"52,54235","13,4139927",Point,"[13.4139927,52.54235]",64ea3180505d5c087b02c20a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Pappelallee 9,10437,Berlin,Deutschland,0,false,20.02.2024 16:38:41,,,,,,
+655dd99b0917902bca038732,79,ffp Pauschal,"52,5870293","13,3550087",Point,"[13.355008699999999,52.5870293]",655dd99aea57c52e9d09a965,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Hertzstraße 71,13158,Berlin,Deutschland,0,false,02.07.2024 11:13:34,,,,1719871200000,,
+64f59708595eced6060c6da8,52,Film Five Pauschal,"52,5300832","13,3682834",Point,"[13.3682834,52.5300832]",64f59708d6c1dded1b08926b,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Heidestrasse 54,10557,Berlin,Deutschland,0,false,20.02.2024 16:39:02,,,,,,
+637760f864a9c65fef05a3a6,1,G.U.M Pauschal,"52,5538839","13,4343425",Point,"[13.4343425,52.553883899999995]",637760f73febd218bd7648b2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Langhansstraße 63,13086,Berlin,Deutschland,0,,23.08.2024 06:37:59,1,"3. OG Rechts
+Besonderheiten:
+Chrom an Tischen und Stühlen Polieren
+Monitore und Telefone NICHT reinigen
+
+Arbeitsmaterial befindet sich im Keller
+
+
+",,1724364000000,,
+64c3989f10ece7800f023b2e,45,GPVA Otto-Suhr Pauschal,"52,5170831","13,3093811",Point,"[13.3093811,52.5170831]",64c3989eb81e725a170b6886,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Otto-Suhr-Allee 94,10585,Berlin,Deutschland,0,false,09.08.2024 09:08:51,,,,,,
+65671a3ad6ce7cd6440e2d44,80,HAUS 6 Etagenflur Pauschal,"52,5869638","13,3550551",Point,"[13.3550551,52.5869638]",65671a38d6ce7cd6440e2d43,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 71,13158,Berlin,Deutschland,0,false,20.02.2024 16:39:18,,,,,,
+65671a7dd6cebc8c570fc1c2,81,Haus 6 Treppenhaus BLACKBOX,"52,5869638","13,3550551",Point,"[13.3550551,52.5869638]",65671a7c2d787f75a30bc00d,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 71,13158,Berlin,Deutschland,0,false,20.02.2024 16:39:22,,,,,,
+648b5bd99573baeff40fe4a9,36,Holoplot Alboinstraße Pauschal,"52,4678019","13,3705575",Point,"[13.370557499999999,52.4678019]",648b5bd83f272fd56e018b88,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Alboinstraße 17-23 Halle 12,12103,Berlin,Deutschland,0,false,10.07.2024 20:10:11,2 Schlüssel Jeremy und Moppi,"Mo
+Toilette, Küche, Büro oben                  3std
+
+Di 
+Toiletten und Küche, Büro unten       3std
+
+ Mi
+Lager abfahren, kleine runde/Sichtreinigung                                     3std
+
+Do
+Toilette,  Küche                                   3std
+
+Fr
+Kleine Runde/sichtreinigung           1std
+",,,,
+648b5b8c9573baeff40fe4a8,35,Holoplot Ringbahn Pauschal,"52,4665506","13,3941548",Point,"[13.394154799999999,52.4665506]",648b5bd83f272fd56e018b88,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Ringbahnstraße 12/A2,12099,Berlin,Deutschland,0,false,20.02.2024 16:39:36,2 Schlüssel,"Mo
+Toiletten, Küche, Büro 1.etage               3std
+
+Di
+Toiletten, Küche , Büro 4.etage  1/2      3std
+
+Mi
+Toiletten, Küche                                        3std
+
+Do
+Toiletten, Küche, Büro 4.etage  2/2       3std
+
+Fr
+Toiletten, Küche                                        3std",,,,
+642ae32b3febd2303c5a42a2,22,Interautomation,"52,5897422","13,3698626",Point,"[13.3698626,52.589742199999996]",642ae32b3febd2304451c4d2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hauptstraße 56-60,13158,Berlin,Deutschland,0,,20.02.2024 16:39:41,,,,,,
+6377b55764a9c673cc144ed4,5,Iron Mountain Pauschal,"52,4274585","13,3686391",Point,"[13.3686391,52.4274585]",6377b55664a9c673cc144ed3,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Trachenbergring 93/93a,12249,Berlin,Deutschland,0,,24.07.2024 20:53:52,,,,,,
+652fd7a824d6bc21b7019e13,69,JACKNAU GmbH Pauschal,"52,5324819","13,1712595",Point,"[13.171259500000001,52.5324819]",652fd7a791cb8d207b058b83,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Egelpfuhlstrasse 42 a,13581,Berlin,Deutschland,0,false,06.08.2024 12:25:42,,,,1722895200000,,
+652fb80b183d3b62f7029ee2,68,Joachim Schmidt Metallbau Pauschal,"52,5317059","13,247099",Point,"[13.247098999999999,52.5317059]",652fb80a09b509577404991c,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Otternbuchtstraße 11,13599,Berlin,Deutschland,0,false,20.02.2024 16:39:52,,,,,,
+65bcecb1e224d0ded20b4809,100000,Jörg Heidemann Steuerberatungsgesellschaft mbh Pauschal,"52,50129","13,37612",Point,"[13.37612,52.50129]",65bcecb0a61447d5b6026244,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Tempelhofer Ufer 37,10963,Berlin,Deutschland,0,false,03.05.2024 11:10:56,,,,,,
+64e0be150eb7d9de620acf5b,48,Klohnen Metallbau Pauschal,"52,5613475","13,3666284",Point,"[13.3666284,52.5613475]",64e0bdc1c5688085df0d8cd5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Residenzstraße 65,13409,Berlin,Deutschland,0,false,20.02.2024 16:40:07,,,,,,
+6475cde4fdf43c6b930137e7,32,Knip Pauschal,"52,5744219","13,3557245",Point,"[13.3557245,52.5744219]",6475cde3b79b34c0f60301fd,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Alt-Reinickendorf 52,13407,Berlin,Deutschland,0,,20.02.2024 16:40:13,,,,,,
+64eb4d7b7b0fd74df5076fec,50,Knippenberg Käse,"52,593549","13,4241869",Point,"[13.424186899999999,52.593548999999996]",64eb4d7b687332e91a01e89a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Schönhauser Straße 28,13127,Berlin,Deutschland,0,false,20.02.2024 16:40:20,,,,,,
+65671aa2f7f40b073d06a842,82,Lessingstraße 84 Hausflur / Halle pauschal,"52,5905725","13,358039",Point,"[13.358039,52.5905725]",65671a9fdedbd8d960098693,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Lessingstr. 84,13158,Berlin,Deutschland,0,false,02.07.2024 10:07:47,,,,,,
+64895df3c3928a6aa60d2ba1,34,Lohndialog,"52,5467106","13,442559",Point,"[13.442559,52.5467106]",64895df2d4f9183bfa03c6b8,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Ostseestraße 107,10409,Berlin,Deutschland,0,false,24.06.2024 10:58:40,,,,1719180000000,,
+653db52915040ac5390debb4,73,Modulor Lager Pauschal,"52,3898025","13,5417731",Point,"[13.541773099999999,52.389802499999995]",653db528f270d2a156019138,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Melitta-Schiller-Straße 28,12526,Berlin,Deutschland,0,false,02.07.2024 11:56:28,,,,,,
+653db4ddae5292577309e257,72,Modulor Shop pauschal,"52,5031115","13,4099611",Point,"[13.409961099999999,52.503111499999996]",653db4dc211df0073e00444a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Prinzenstraße 85,10969,Berlin,Deutschland,0,false,20.02.2024 16:40:38,,,,,,
+64f5bb4fbce189470f060d79,53,MYKITA Mitte Pauschal,"52,5235915","13,4095003",Point,"[13.409500300000001,52.523591499999995]",64acfb62200be5fa8d053458,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Rosa-Luxemburg-Straße 6,10178,Berlin,Deutschland,0,false,20.02.2024 16:40:45,,,,,,
+64acfb63357779d0f503b244,42,MYKITA West Pauschal,"52,5054299","13,3362073",Point,"[13.3362073,52.505429899999996]",64acfb62200be5fa8d053458,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[], Budapester Str. 46 ,10787,Berlin,Deutschland,0,false,24.07.2024 20:46:16,,,,,,
+653630d01ba40dde5802b9af,71,Netto,"52,6359888","13,4331201",Point,"[13.4331201,52.6359888]",65362ffd3c5a72b0b30317a3,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Arkenberger Damm 1,13127,Berlin,Deutschland,0,false,24.06.2024 12:34:33,,,,1719180000000,,
+65d3164dd6e2f7efc90ea1bf,100003,beebuzz media Berlin GmbH Pauschal,"52,5358471","13,3944353",Point,"[13.3944353,52.5358471]",65d3164c834aa684900b9da2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Strelitzer Str. 58,10115,Berlin,Deutschland,0,false,31.07.2024 11:34:01,,,,,,
+656f222ef6d8ffd8360cea56,84,Norman Sawallich,"52,5479921","13,1937099",Point,"[13.1937099,52.547992099999995]",656f222de66d3049080d069a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Askanierring 151,13585,Berlin,Deutschland,0,false,20.02.2024 16:41:13,,,,,,
+6377ad803febd2258d5dba23,3,"Praxisgemeinschaft Voss-Wermann, Anlauf, Gutz pauschal","52,4998387","13,3145207",Point,"[13.3145207,52.4998387]",6377ad8064a9c6726267f012,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],"Olivaer Platz 15,  4.OG",10707,Berlin,Deutschland,0,,24.06.2024 12:40:17,,,,,,
+6501c33e750dd84a780f0742,58,Pyjama Pictures,"52,431599","13,5390536",Point,"[13.539053599999999,52.431599]",6501c2f31ad7852fe40dd512,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Ernst-Augustin-Straße 15,12489,Berlin,Deutschland,0,false,24.06.2024 12:50:00,,,,1719180000000,,
+6501c3954e46ca93e505d414,59,Pyjama Schöneiche,"52,482874","13,7030239",Point,"[13.7030239,52.482873999999995]",6501c2f31ad7852fe40dd512,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Dorfaue 20,15566,Schöneiche b. Berlin,Deutschland,0,false,24.06.2024 12:50:01,,,,1719180000000,,
+653fe1a1befa68ad780b6f02,75,Quovadis Teststudio,"52,5083076","13,3250934",Point,"[13.325093400000002,52.508307599999995]",653fe1a175203d01e40c29c2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Steinplatz 2,10623,Berlin,Deutschland,0,false,24.06.2024 12:49:42,,,,1719180000000,,
+64cf8365dc88fa4c000aa132,46,Rock Coaches,"52,5859791","13,3569612",Point,"[13.356961199999999,52.585979099999996]",64cf82a08c0c5cac7b077738,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 62 A,13158,Berlin,Deutschland,0,false,20.02.2024 16:41:38,,,,,,
+6377a05b64a9c66ffd3f7098,2,Schatteria Pauschal,"52,5050094","13,3274333",Point,"[13.327433300000001,52.5050094]",6377a05b3febd224223fa2a2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Fasanenstraße 12,10623,Berlin,Deutschland,0,,19.04.2024 12:52:39,2,"Vordertür 
+Briefing siehe Dokumente",,,,
+65782db3e9d527cb070b9732,86,SoVD pauschal,"52,515559","13,4166325",Point,"[13.416632499999999,52.515559]",65782db2763f3df0ae0715b2,656edcd9238cc47cf901bd92,Tina,Falk,2,[],[],Stralauer Straße 63,10179,Berlin,Deutschland,0,false,24.06.2024 12:56:38,,,,1719180000000,,
+658d5c7b2204d9644e03858a,92,Sozialverband Deutschland e. V.,"52,515559","13,4166325",Point,"[13.416632499999999,52.515559]",65782db2763f3df0ae0715b2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Stralauer Straße 63,10179,Berlin,Deutschland,0,false,24.06.2024 12:56:39,,,,1719180000000,,
+6440385b64a9c659e3638812,27,Sportphysiotherapie Scharf Pauschal,"52,5439761","13,4392455",Point,"[13.4392455,52.5439761]",6440385b64a9c659b932e3e5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Erich-Weinert-Straße 138,10409,Berlin,Deutschland,0,,20.02.2024 16:41:57,,,,,,
+659e7d90f6f50988f408f496,94,Studio 1,"52,5301408","13,3935016",Point,"[13.393501599999999,52.5301408]",659e7d90b0b1e9ac4e07de72,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Schröderstr. 4,10115,Berlin,Deutschland,0,false,24.06.2024 12:59:00,,,,1719180000000,,
+65c0bd51fea3d409c007c124,100001,tamen.Entwicklungsbüro Arbeit und Umelt GmbH Pauschal,"52,4732189","13,3400977",Point,"[13.3400977,52.4732189]",65c0bd50299d79fa900609de,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Sponholzstr. 11,12159,Berlin,Deutschland,0,false,03.05.2024 12:36:54,,,,,,
+650848d59b71ecc7f20bd475,60,THE ARC,"52,4910017","13,3693327",Point,"[13.3693327,52.4910017]",650848d421cf5c5dd206cee1,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Großgörschenstraße 25,10829,Berlin,Deutschland,0,false,20.02.2024 16:42:20,,,,,1696111200000,
+6377c38a3febd227895ee456,10019,TJW Bürgermeisterstraße Pauschal,"52,6787066","13,5878155",Point,"[13.5878155,52.6787066]",6377c32c3febd22780779aab,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Bürgermeisterstraße 10,16321,Bernau,Deutschland,0,,01.07.2024 14:21:47,Abholen,"Vorher Schlüssel abholen in der Weinbergstraße 34 ,16321 Bernau und wieder zurück bringen
+Reinigungszeit maximal 2h 30Min zum Schlüssel holen und bringen",,,,
+6582bcf68877c0af1e062523,90,VON DER AUE · GREINER Pauschal,"52,5750404","13,3508159",Point,"[13.350815899999999,52.575040400000006]",6582bcf58877c0af1e062522,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Alt-Reinickendorf 35,13407,Berlin,Deutschland,0,false,13.03.2024 14:17:24,,,,,,
+653f7427258a70b38a01de25,74,Zahnarztpraxis Sarah Mestre ,"52,538508","13,40932",Point,"[13.40932,52.538508]",653f7426258a70b38a01de24,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Kastanienallee 16,10435,Berlin,Deutschland,0,false,24.06.2024 13:00:11,,,,1719180000000,,
+6527b288fcc92196670087e3,66,zitras,"52,5907161","13,3580295",Point,"[13.358029499999999,52.590716099999995]",6527b28713e4913a7a02e9b2,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Lessingstrasse 84 / Haus 25c,13158,Berlin,Deutschland,0,false,24.06.2024 13:00:37,,,,1719180000000,,
+649e007a2b4fe9fcae068414,41,Hausverwaltung Lucas/Grahl,"52,5034251","13,4272443",Point,"[13.4272443,52.503425099999994]",649e0079064d9d91ef0f18c0,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Muskauerstr. 25,10997,Berlin,Deutschland,0,false,02.07.2024 11:17:35,,,,1719871200000,,
+65d7340b46659ddeb8042e12,100004,SmartHoming GmbH,"52,5465701","13,4240795",Point,"[13.4240795,52.5465701]",65d7340af7b9fbf4f2055574,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Dunckerstr. 63,10439,Berlin,Deutschland,0,false,09.04.2024 14:18:24,,,,1712613600000,,
+651a718598968ff54c0b4fe2,65,Eis Engelchen,"52,4558754","13,4109747",Point,"[13.410974699999999,52.4558754]",651a7185139386542f02dd52,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Gottlieb-Dunkel-Strasse 42,12099,Berlin,Deutschland,0,false,19.08.2024 08:59:30,,,,,1698793200000,
+65df33b2e51d4bd9f00e3879,10106,Restaurant bei Talon.One,"52,498227","13,4275246",Point,"[13.4275246,52.498227]",65df33b1fb423ecaf8002787,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Wiener Str. 10,10999,Berlin,Deutschland,0,false,24.06.2024 12:56:00,,,,1719180000000,,
+640a525964a9c6730f467681,14,Alba,"52,5786855","13,349509",Point,"[13.349509,52.5786855]",640a525864a9c672332b20ae,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Flottenstraße 7-9,13407,Berlin,Deutschland,0,,28.02.2024 18:05:27,,,,1693519200000,,
+65e704745b1287e00f023277,100006,Esanum Hexenhaus,"52,54235","13,4139927",Point,"[13.4139927,52.54235]",64ea3180505d5c087b02c20a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Pappelallee 9,10437,Berlin,Deutschland,0,false,24.04.2024 13:22:27,,,,,,
+65ed7d5452a388388d0c68af,100007,Neukunde Test,0,0,Point,"[0,0]",65ed7d532d72d7f3f505695a,65d45662d2b115f876082a72,Kai,Prillwitz,1,[],,Voltastr. 3,13189,Berlin,Deutschland,,false,10.03.2024 10:28:55,,,,,,
+a3537939-f97c-4580-91ed-d6bfeb3fb25b,,Dentaltechnik Lutz Tamaschke,,,,,,,,,0,,,Schlieperstraße 5,13507,Berlin,,,,11.03.2024 08:41:29,,,,,,
+788e7e02-8f6d-4cf2-8cc6-6ccac332315e,,Lutz Klemann,,,,,,,,,0,,,Am Borsigturm 17,13507,Berlin,,,,11.03.2024 11:54:17,,,,,,
+91834230-b50d-4fac-b333-ea0ca32850d1,,Orchid,,,,,,,,,0,,,,,Berlin,,,,12.03.2024 19:37:55,,,,,,
+65facb00db289a60940d8e9b,10156,JUNIMOND Bestattungen Leo Ritz & Hendrik Thiele GbR Pauschal,"52,5227595","13,451267",Point,"[13.451267,52.5227595]",65facb0065ed04a8220e56cc,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Straßmannstr. 25,10249,Berlin,Deutschland,0,false,08.04.2024 13:45:47,,,,,,
+65f18e8fc6f785dd3a07bbde,10155,KST Kraftwerks- und Spezialteile GmbH Pauschal,"52,5874635","13,3532717",Point,"[13.353271699999999,52.5874635]",65f18e8ee965f945fe099311,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hertzstraße 75,13158,Berlin,Deutschland,0,false,02.07.2024 11:54:20,,,,,1711922400000,
+66056b0edd06b323f70fa597,10158,Volt Deutschland Pauschal,"52,5363279","13,4105305",Point,"[13.4105305,52.536327899999996]",66056b0e3f1579b72f0d74d5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Choriner Str. 34,10435,Berlin,Deutschland,0,false,05.06.2024 12:33:29,,,,,,
+66057259246a15c2690220aa,10159,GPVA Kaiser-Friedrich Pauschal,"52,5181352","13,3004914",Point,"[13.300491399999999,52.518135199999996]",6605725897f9eecb7f08b78e,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Kaiser-Friedrich-Str. 103  ,10585,Berlin,Deutschland,0,false,02.07.2024 11:15:17,,,,,,
+660bd1497673355d2d0157eb,10160,Horbach Wirtschaftsberatung GmbH Pauschal,"52,5026347","13,3384821",Point,"[13.3384821,52.502634699999994]",660bd149211b33d92606c850,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Nürnberger Str. 14/15,10789,Berlin,Deutschland,0,false,02.07.2024 11:18:49,,,,,,
+660ea83fd03bcb39f309690f,100010,Esanum Schönhauser Allee 45A,"52,5416202","13,4125908",Point,"[13.4125908,52.5416202]",64ea3180505d5c087b02c20a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],,Schönhauser Allee 45A,10437,Berlin,Deutschland,,false,04.04.2024 16:30:53,,,,,,
+eb93911c-6bca-43ff-801b-78592123c253,,Einhorn,,,,,,,,,0,,,Skalitzer Straße 100,,Berlin,,,,09.04.2024 10:11:03,,,,,,
+66153a9225b0362981009ade,100011,Matthäi Bauunternehmen GmbH & Co. KG Toby Perlbach Pauschal,"52,5320505","13,4128709",Point,"[13.4128709,52.5320505]",66153a913e38aaefb607e4bc,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Senefelderplatz,10405,Berlin,Deutschland,0,false,03.05.2024 11:37:52,,,,,,
+66163ca5c50fa7ab530beef7,10163,Playground gGmbH Kita,"52,5128149","13,4480055",Point,"[13.448005499999999,52.512814899999995]",66163ca4e2a556f86c0f1548,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Gubenerstraße 51,10243,Berlin,Deutschland,0,false,06.06.2024 08:29:03,,,,,,
+661685ba24cf5bb13504349e,10163,Playground gGmbH Krippe,"52,5128149","13,4480055",Point,"[13.448005499999999,52.512814899999995]",66163ca4e2a556f86c0f1548,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Gubenerstr. 51,10243,Berlin,Deutschland,0,false,06.06.2024 08:29:04,,,,,,
+5c2804e6-7334-4e79-8ee9-6be72353e7ff,,Helix hub,,,,,,,,,0,,,,,Berlin,,,,12.04.2024 08:20:48,,,,,,
+ca54da3d-2aeb-4787-80a2-8c53d88b1836,,Test,,,,,,,,,0,,,,,Berlin,,,,20.04.2024 11:49:30,,,,,,660ea83fd03bcb39f309690f
+8e23fb06-142a-42f5-85f6-9c5f705448fe,,Reni Belyovska Store,,,,,,,,,0,,,Torstraße 159,,Berlin,,,,22.04.2024 12:31:02,,,,,,
+65e5bbb6f468e86d0a09a6c9,100005,Betty Barclay Store Pauschal,"52,4646622","13,3266775",Point,"[13.326677499999999,52.4646622]",65e5bbb4df7dc7b55f078d4a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Schlossstr.1,12163,Berlin,Deutschland,0,false,22.08.2024 10:38:10,,,,,,
+54c48f8d-dd64-43c2-b77f-571709c4e4e9,,Lyreco,,,,,,,,,0,,,,,Berlin,,,,06.05.2024 09:56:49,,,,,,
+665eb1fcbec4478207023065,100016,TJW Weinbergstraße ,"52,6811258","13,5787713",Point,"[13.5787713,52.6811258]",6377c32c3febd22780779aab,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],,Weinbergstraße 34,16321,Bernau bei Berlin,Deutschland,,false,04.06.2024 08:29:32,,,,,,
+6654125b4ba72767b30223a6,10172,Stiftung Planetarium Berlin,"52,5435835","13,4278042",Point,"[13.427804199999999,52.5435835]",6654125bb4cd76d31206bcf5,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Prenzlauer Allee 80,10405,Berlin,Deutschland,0,false,05.06.2024 12:18:05,,,,,,
+c48e91cf-c182-453a-b89e-8ca18ad484cc,,Romihase,,,,,,,,,0,,,,Friefrichsgagen,Berlin,,,,06.06.2024 11:08:43,,,,,,
+666311ced27e5d96f00fa2f7,10173,Praxis Medial,"52,558543","13,4124961",Point,"[13.4124961,52.558543]",66631143c021585bb50e4172,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Brennerstraße 90,13187,Berlin,Deutschland,0,false,02.07.2024 12:11:49,,,,1719871200000,,
+8236390d-522d-42c2-bec7-a35d87d4586c,,Schönefeld ,,,,,,,,,0,,,Käthe niederkirchener Straße 34,10407,Berlin,,,,12.06.2024 16:23:17,,,,,,
+362ef8fd-48c1-4fe9-9f3b-c7db16a099f1,,Fliesen laden steglitz,,,,,,,,,0,,,Schützenstraße 1,12165,Berlin,,,,13.06.2024 11:14:20,,,,,,
+666a8d13d87f3a2da5040182,100017,Etablissement Styling Makeup Hair Pauschal,"52,5305634","13,4344555",Point,"[13.4344555,52.5305634]",666a8d128a132076f0032802,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hufelandstr. 36,10407,Berlin,Deutschland,0,false,06.08.2024 12:19:08,,,,,,
+bca95c0a-4745-4a35-af5a-a0dd5db071df,,Kinderarztpraxis Grit Euler,,,,,,,,,0,,,Sredskistraße 35,10435,Berlin,,,,17.06.2024 13:31:14,,,,,,
+3ecc6fde-0c8c-47ce-a93a-46fb42c31129,,Mig raven,,,,,,,,,0,,,,,Berlin,,,,18.06.2024 12:16:41,,,,,,66716a7208eaccf7ce049e45
+66716a7208eaccf7ce049e45,10176,migRaven GmbH pauschal,"52,5224259","13,3228533",Point,"[13.3228533,52.5224259]",66716a72d9df944b3c0b0363,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hallerstraße 6,10587,Berlin,Deutschland,0,false,18.07.2024 17:20:51,,,,,,
+905c86e8-a533-4133-aa21-ebf9b2f9f0c2,,Barbette,,,,,,,,,0,,,Karl Marx Allee 36,10178,Berlin,,,,24.06.2024 14:38:15,,,,,,
+667d1a09a35ee9bdd30153fc,100021,"Wuppertal Institut für Klima, Umwelt, Energie gGmbH Pauschal","52,537371","13,3730638",Point,"[13.373063799999999,52.537371]",667d19d437ae364cdd010c62,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Chausseestraße 86,10115,Berlin,Deutschland,0,false,01.10.2024 15:37:23,,,,,,
+66715c040258ef3b16007286,100018,Salome Schmuck,"52,5001951","13,3492562",Point,"[13.3492562,52.500195100000006]",66715c0375176c690c0bec91,63775f7364a9c65fa6587f8b,Mäysel,Jahn,2,[],[],Kleiststraße 35,10787,Berlin,Deutschland,0,false,18.07.2024 17:21:35,,,,1719871200000,,
+665d83e330ac6323c50bbfc4,100015,Triple A Marketing GmbH,"52,510095","13,3773671",Point,"[13.3773671,52.510095]",665d83e3f5ac4be66801f544,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Leipziger Platz 18,10117,Berlin,Deutschland,0,false,02.07.2024 13:38:08,,,,,,
+ef9e37e5-5cac-4212-a926-d1b18a69e200,,Koepjohann'sche Stiftung,,,,,,,,,0,,,Größe Hamburger Straße 29,,Berlin,,,,04.07.2024 10:32:51,,,,,,
+492cc55b-435c-420b-a6a6-371425f1b9a7,,Artibute,,,,,,,,,0,,,Chausseestraße 86,,Berlin,,,,04.07.2024 14:57:53,,,,,,
+667267c1a600460b7f034c2c,100020,Vencon Research International GmbH,"52,5558889","13,413174",Point,"[13.413174,52.5558889]",667267c00aefe82bdb0fa4a3,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Berliner Straße 69,13189,Berlin,Deutschland,0,false,08.07.2024 11:50:58,,,,,,
+e73456e5-8b31-42fa-a5dc-835daa289b1e,,Berlin Global Village gGmbH,,,,,,,,,0,,,Am Sudhaus 2,12053,Berlin,,,,08.07.2024 13:57:05,,,,,,
+04b1b79b-b2fd-44d1-8cc1-dba0702944ea,,Bürgermeister,,,,,,,,,0,,,Wahrschauer str,,Berlin,,,,08.07.2024 16:11:08,,,,,,
+6c336903-652d-48ec-8637-6da770eace63,,Sygan,,,,,,,,,0,,,Straße der Einheit 114,,Falkensee,,,,22.07.2024 12:09:04,,,,,,
+53a25ddc-8cc2-4c7e-be7f-9c0830edcba6,,Fotostudio Stilllife ,,,,,,,,,0,,,Koppenstraße 21,10243,Berlin,,,,22.07.2024 14:02:05,,,,,,
+c3e11200-ee5f-45e7-b90e-6852f30d49df,,Evas Arche,,,,,,,,,0,,,Große Hamburger Str 28,,Berlin,,,,22.07.2024 14:40:19,,,,,,
+b1f765ad-5a3c-443d-8086-44f108428bbb,,Fun architekten ,,,,,,,,,0,,,Hagenauer Straße 3,,Berlin,,,,24.07.2024 09:33:01,,,,,,
+66a72337bc21a06f2201d1d0,100026,Knippenberg Käse,"52,5171735","13,4463098",Point,"[13.4463098,52.5171735]",64eb4d7b687332e91a01e89a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],,Karl-Marx-Allee 113 -115,10243,Berlin,Deutschland,,false,29.07.2024 08:07:36,,,,,,
+66a73742ebd1cc336c0ca78a,100027,Anwaltssozietät Jurati Pauschal,"52,5508493","13,414471",Point,"[13.414470999999999,52.550849299999996]",66a7374128925f392c017b34,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Schönhauser Allee 83,10439,Berlin,Deutschland,0,false,04.09.2024 13:14:42,,,,,,
+04467e89-36de-49b4-b5ed-9d29e51ef507,,Weingarten ,,,,,,,,,0,,,Tautzinstraße 1,,Berlin,,,,29.07.2024 11:22:26,,,,,,
+66a8c0ef965478124e043cb5,100028,fun architekten und und ingenieure Pauschal,"52,53914","13,4166423",Point,"[13.4166423,52.539139999999996]",66a8c0bc6f2cee1a30023efc,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Hagenauerstraße 3,10435,Berlin,Deutschland,0,false,04.09.2024 13:59:37,,,,,,
+66a0cfa2641714bda406f7a6,100025,Ulrich Hartmann - Studio 21,"52,5149089","13,436052",Point,"[13.436052,52.514908899999995]",66a0cfa107406086f6084d24,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Koppenstraße 21,10243,Berlin,Deutschland,0,false,31.07.2024 08:53:35,,,,,,
+66b07f6165b7f2ae9700dc68,100029,Arztpraxis für manuelle Medizin Martina Igel Pauschal,"52,5419513","13,4231724",Point,"[13.423172399999999,52.5419513]",66b07f61a2f6f242330f7740,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Senefelderstraße 10,10437,Berlin,Deutschland,0,false,04.09.2024 13:24:11,,,,,,
+6694f81f44387f58770e1871,100024,Slim Chickens,"52,5119848","13,3899863",Point,"[13.389986299999999,52.5119848]",6694f81fa9e554c4fa075881,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Mohrenstraße 17,10117,Berlin,Deutschland,0,false,16.08.2024 12:43:08,,,,,,
+f09a7578-6048-408c-906c-036b08145749,,Test,,,,,,,,,0,,,Test,13158,Berlin,,,,08.08.2024 15:16:55,,,,,,
+6683aea2bb007847f00116c0,100022,AWO Fachschule für Sozialwesen,"52,517728","13,4789266",Point,"[13.478926600000001,52.517728]",6683aea292b63524bd029e10,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Am Stadtpark 5,10367,Berlin,Deutschland,0,false,13.08.2024 09:58:15,,,,,,
+66b49c39ddd670b9fe0d712b,100030,Bildungs- und Sozialwerk des Lesben- und Schwulenverbandes Berlin-Brandenburg (BLSB) e.V.,"52,517728","13,4789266",Point,"[13.478926600000001,52.517728]",66b49c387489e1d3dd0e55e3,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Am Stadtpark 5,10367,Berlin,Deutschland,0,false,14.08.2024 11:27:22,,,,,,
+66c82629753afbeb3e08362d,100031,Hueber GmbH Personal Leasing und Service,"52,4593498","13,3235342",Point,"[13.323534200000001,52.4593498]",66c82628f3db3e3a380438dc,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Schloßstraße 100,12163,Berlin,Deutschland,0,false,23.08.2024 09:19:42,,,,,,
+e259ff72-4985-4168-aa91-8a266fe244ec,,Starthilfe e.V ,,,,,,,,,0,,,Neumannstraße ,,Berlin,,,,27.08.2024 12:47:27,,,,,,
+2292e8e9-cdb0-45e2-9632-a590fb9c4f14,,Resmini ,,,,,,,,,0,,,Storkower Straße 207B,,Berlin,,,,29.08.2024 11:01:22,,,,,,
+9e66c092-8090-40d7-a497-6ebb841d5960,,Remini Elntrachtstraße 1,,,,,,,,,0,,,Elntrachtstraße 1,13187,Berlin,,,,30.08.2024 08:48:03,,,,,,
+de4a4048-83a0-490d-bd99-f2e972dd9e82,,Resmini Hugenottenplatz 1,,,,,,,,,0,,,Hugenottenplatz 1,13127,Berlin,,,,30.08.2024 08:49:13,,,,,,
+66d188b162de36e4f0000fba,100033,Dat Cookie GmbH,"52,5246053","13,4029175",Point,"[13.4029175,52.5246053]",66d188b130d9da72b40d8e16,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Rosenthaler Straße 36,10178,Berlin,Deutschland,0,false,30.08.2024 10:59:50,,,,,,
+66d6c154df73f2e5450019b7,10189,Honey Lou Bar,"52,4801219","13,4381017",Point,"[13.438101699999999,52.4801219]",66d6c115e82e1eb54704b9a4,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Anzengruberstr 3,12043,Berlin,Deutschland,0,false,03.09.2024 12:56:18,,,,,,
+66daec2c802e0e329f0e20f2,100034,Chaka 2 GmbH,"52,5257563","13,3888209",Point,"[13.388820899999999,52.5257563]",66daec0c3023fe0548067678,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Oranienburger Straße 54,10178,Berlin,Deutschland,0,false,10.09.2024 18:56:11,,,,,,
+ca9f715a-7cf6-458e-a766-0eaffb300689,,Bellicon,,,,,,,,,0,,,,10117,Berlin,,,,09.09.2024 16:01:36,,,,,,
+d47a79cf-8f5d-4844-acca-a7694c152a15,,Planer in derbPanke,,,,,,,,,0,,,Dadstraße 40a,13357,Berlin,,,,10.09.2024 10:28:04,,,,,,
+d21078f3-69f0-43e7-9894-6381b1b47d45,,Gjp-Steuerberater,,,,,,,,,0,,,Prenzlauer Allee 39,10405,Berlin,,,,10.09.2024 11:46:04,,,,,,
+66cd8eb709758d09920463a4,100032,Mawista GmbH,"52,53376","13,3708187",Point,"[13.3708187,52.53376]",66cd8eb7e8d9a6fd2a04a00f,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Scharnhorststraße 26,10115,Berlin,Deutschland,0,false,11.09.2024 08:20:02,,,,,,
+8d523c90-f3ba-4592-8a17-cb4a9d926f10,,B&O,,,,,,,,,0,,,,,Berlin,,,,11.09.2024 09:22:40,,,,,,
+4e91d93e-62ec-479f-a80d-730d37ddf8de,,Carra pflege,,,,,,,,,0,,,,,Berlin,,,,12.09.2024 12:54:26,,,,,,
+84fe281e-ee8f-427d-b0d4-5d50782d6f07,,Icom Deutschland,,,,,,,,,0,,,Schönhauser Allee 163,10435,Berlin,,,,16.09.2024 10:50:26,,,,,,
+349eb751-b0e0-43a9-b81b-c6b15e1f376b,,Pflegia GmbH,,,,,,,,,0,,,Chausseestraße 19,10115,Berlin,,,,17.09.2024 15:17:11,,,,,,
+66ebef653f79f200f102ff98,100036,Blue Monkey Engineering,"52,5395921","13,403072",Point,"[13.403072,52.5395921]",66ebef642848a2520c02869a,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Kremmener Str. 5,10435,Berlin,Deutschland,0,false,20.09.2024 10:05:14,,,,,,
+90c51584-437e-4536-969e-5bcf71d019b5,,Icom,,,,,,,,,0,,,Schönhauser Allee ,,Berlin,,,,24.09.2024 10:51:41,,,,,,
+66f28b120c23a9c5380cd0f8,100038,neues Handeln AG,"52,5007357","13,4005125",Point,"[13.4005125,52.5007357]",66f289f004add4bfbe0d2386,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],,Alexandrinenstraße 118-121,10969,Berlin,Deutschland,,false,24.09.2024 14:43:05,,,,,,
+50a0f65d-45ff-4bf7-9775-d1270761b6b6,,Praxis kollektiv ,,,,,,,,,0,,,,,Berlin,,,,24.09.2024 16:07:59,,,,,,
+157dde9b-0383-414d-a8fd-c7ab95410c23,,Core Immobilien Bleibtreustraße 42,,,,,,,,,0,,,Bleibtreustraße 42,,Berlin,,,,02.10.2024 07:54:00,,,,,,
+af875ed0-98ff-4fea-bc18-f3ff36df6060,,Core helgoländer ufer,,,,,,,,,0,,,Helgoländer Ufer 6,,Berlin,,,,02.10.2024 08:38:47,,,,,,
+557884b7-4207-40d5-afff-ce2ecd400db9,,Faircado ug,,,,,,,,,0,,,,,Berlin,,,,02.10.2024 09:45:39,,,,,,
+55a534fb-be16-465b-a42d-6c44ff027efd,,Streiber und beetz,,,,,,,,,0,,,,,Berlin,,,,02.10.2024 13:17:36,,,,,,
+66ed0482ee0ac7d1c8039801,100037,Trendt Vision GmbH,"52,5071485","13,4872434",Point,"[13.487243399999999,52.5071485]",66ed04824350e6ec470d8cfd,63775f7364a9c65fa6587f8b,Mäysel,Jahn,1,[],[],Buchberger Straße 27,10365,Berlin,Deutschland,0,false,04.10.2024 14:03:37,,,,,,
+66ffb7bd5cc1c932df061c12,100039,ICOM Deutschland e. V.,"52,5354241","13,4119296",Point,"[13.411929599999999,52.5354241]",66ffb7bdf15c21d1c00d1759,,,,1,[],,Schönhauser Allee 163,10435,Berlin,Deutschland,0,false,04.10.2024 15:37:58,,,,,,
+f27b089d-d22c-4ae9-85b8-54732bac7d73,,Core emanuelkirch,,,,,,,,,0,,,Emanuelkirchstraße,,Berlin,,,,07.10.2024 10:28:54,,,,,,
