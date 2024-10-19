@@ -2,7 +2,7 @@
 
 import { ChatLayout } from "@/components/chat/chat-layout";
 import { getSelectedModel } from "@/lib/model-helper";
-import { ChatOllama } from "@langchain/community/chat_models/ollama";
+import { ChatOllama } from "@langchain/ollama";
 import { AIMessage, HumanMessage } from "@langchain/core/messages";
 import { BytesOutputParser } from "@langchain/core/output_parsers";
 import { Attachment, ChatRequestOptions } from "ai";
