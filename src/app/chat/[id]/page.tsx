@@ -10,7 +10,7 @@ import { Message, useChat } from "ai/react";
 import React, { useEffect } from "react";
 import { toast } from "sonner";
 import { v4 as uuidv4 } from "uuid";
-import useChatStore from "../hooks/useChatStore";
+import useChatStore from "../../hooks/useChatStore";
 
 export default function Page({ params }: { params: { id: string } }) {
   const {
